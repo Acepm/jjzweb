@@ -1,0 +1,146 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:246px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u82_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:438px;
+}
+#u82 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:246px;
+  height:438px;
+}
+#u83 {
+  position:absolute;
+  left:2px;
+  top:211px;
+  width:242px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u84_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:30px;
+}
+#u84 {
+  position:absolute;
+  left:13px;
+  top:408px;
+  width:36px;
+  height:30px;
+}
+#u85 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u86_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:30px;
+}
+#u86 {
+  position:absolute;
+  left:59px;
+  top:408px;
+  width:36px;
+  height:30px;
+}
+#u87 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u88_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:30px;
+}
+#u88 {
+  position:absolute;
+  left:151px;
+  top:408px;
+  width:36px;
+  height:30px;
+}
+#u89 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u90_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:30px;
+}
+#u90 {
+  position:absolute;
+  left:197px;
+  top:408px;
+  width:36px;
+  height:30px;
+}
+#u91 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u92_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:30px;
+}
+#u92 {
+  position:absolute;
+  left:105px;
+  top:408px;
+  width:36px;
+  height:30px;
+}
+#u93 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
